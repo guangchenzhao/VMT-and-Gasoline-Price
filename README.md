@@ -12,3 +12,6 @@ We assess the potential of MDLD in three ways. Using MDLD data from the Washingt
 Next, we form longitudinal datasets that follow the same device over time, or the same census area (tract or block group) over time. The validity of the data is examined in regressions that relate the average daily VMT in each of several weeks to characteristics of the residents of the area, land use and transportation infrastructure, and the local price of gasoline. 
 
 Finally, we check whether total VMT captures the demand for gasoline and help explain the price of gasoline charged at each gas station in the area. 
+
+![image](https://github.com/guangchenzhao/VMT-and-Gasoline-Price/assets/150304725/a31f2d40-e55f-4345-9d4c-fd4c8db9095b)![image](https://github.com/guangchenzhao/VMT-and-Gasoline-Price/assets/150304725/02f83180-d3b1-4cea-8e2f-c41645830f88)
+
